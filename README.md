@@ -1,2 +1,2 @@
-# HuongDichVu
-Dự án môn hướng dịch vụ
+# HeThongThongMinh
+Dự án môn Hệ thống thông minh
